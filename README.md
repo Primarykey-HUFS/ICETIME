@@ -12,4 +12,4 @@
 
 #### what did you develop?
 - We designed a domain that can manage post information by user and category, We designed and implemented an API that can use posts according to each member.
--Currently, the operation is suspended due to server costs.
+- Currently, the operation is suspended due to server costs.
